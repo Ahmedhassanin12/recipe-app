@@ -4,6 +4,8 @@
 - The user can search for a specific recipe, and save to a favorites list via local storage.
 - The user can easily increase or decrease servings as per his need and can view detailed directions.
 
+## demo
+-https://recipe-ahmedibrahim.netlify.app/
 ### Built With
 
 This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses webpack as module bundler and NPM as package manager.
